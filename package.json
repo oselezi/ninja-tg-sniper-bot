@@ -1,0 +1,12 @@
+{
+  "name": "ninja-bot",
+  "packageManager": "yarn@1.22.21",
+  "version": "1.0.0",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "dependencies": {
+    "@bull-board/express": "^5.16.0"
+  }
+}

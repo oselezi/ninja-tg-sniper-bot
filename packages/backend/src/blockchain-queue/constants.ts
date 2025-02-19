@@ -1,0 +1,2 @@
+const [, BOT_TOKEN_ALPHA] = process.env.TELEGRAM_BOT_TOKEN.split(':');
+export const BLOCKCHAIN_QUEUE_NAME = `BLOCKCHAIN_QUEUE_${BOT_TOKEN_ALPHA}`;

@@ -1,0 +1,26 @@
+export const SINGLE_SLP_SCENE = 'SINGLE_SLP_SCENE';
+export const BUY_SPL_SCENE = 'BUY_SPL_SCENE';
+export const WALLET_SCENE = 'WALLET_SCENE';
+export const SOL_TRANSFER_SCENE = 'SOL_TRANSFER_SCENE';
+export const X_AMOUNT_SPL_SCENE = 'X_AMOUNT_SPL_SCENE';
+export const TAX_SCENE = 'TAX_SCENE';
+export const SENSEI_SCENE = 'SENSEI_SCENE';
+export const NINJA_SCENE = 'NINJA_SCENE';
+export const NINJA_MODE_SCENE = 'NINJA_MODE_SCENE';
+export const NINJA_MODE_NEWS_SCENE = 'NINJA_MODE_NEWS_SCENE';
+export const REFER_SCENE = 'REFER_SCENE';
+export const CHAT_SCENE = 'CHAT_SCENE';
+export const SETTINGS_SCENE = 'SETTINGS_SCENE';
+export const PORTFOLIO_SCENE = 'PORTFOLIO_SCENE';
+export const WAITLIST_SCENE = 'WAITLIST_SCENE';
+export const SELL_SPL_SCENE = 'SELL_SPL_SCENE';
+export const KAMIKAZE_SCENE = 'KAMIKAZE_SCENE';
+export const BOT_BACKUP_SCENE = 'BOT_BACKUP_SCENE';
+export const ACTIVITY_SCENE = 'ACTIVITY_SCENE';
+export const TOPUP_SCENE = 'TOPUP_SCENE';
+export const SINGLE_MORE_SCENE = 'SINGLE_MORE_SCENE';
+
+export const BOT_NAME = 'NinjaBot';
+
+export const NINJA_TOKEN_ADDRESS =
+  '2xP43MawHfU7pwPUmvkc6AUWg4GX8xPQLTGMkSZfCEJT';

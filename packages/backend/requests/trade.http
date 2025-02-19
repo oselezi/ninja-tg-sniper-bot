@@ -1,0 +1,37 @@
+POST http://localhost:3000/trade-notifications
+content-type: application/json
+
+{
+  "data": {
+    "baseMint": "4sckKjDQC6edm42H5ie61zmBunZycd5oXWpB3GrKeT2y",
+    "mint": "CtcjoSveNvWqWbm99ENePw3iB7yJsYwfNBT5CYFvkxVZ",
+    "name": "DOUG",
+    "symbol": "DOUG",
+    "rating": 8,
+    "image": "https://bafkreihb6zkowamcshoecxs7xz4mjno44ymljrhcpwgrdup5etv66myswm.ipfs.nftstorage.link",
+    "description": "Hello I'm Doug, on Solana network. I like to lift weights.",
+    "decimals": 9,
+    "isMutable": true,
+    "freezeAuthority": { "__option": "None" },
+    "updateAuthority": "4ZFebCTuVREX3m7HdGLRtvLsVPkbsV9VNcHTxnTobpWf",
+    "mintAuthority": { "__option": "None" },
+    "supply": "1000000000",
+    "lpPoolInfo": {
+      "pool_total_base": 153664490.6977822,
+      "pool_total_quote": 620.344444,
+      "base_vault_balance": 153664490.6977822,
+      "quote_vault_balance": 620.344444,
+      "base_tokens_in_openorders": 0,
+      "quote_tokens_in_openorders": 0,
+      "base_token_decimals": 9,
+      "quote_token_decimals": 9,
+      "price_base_quote": 247708.33717305318,
+      "lpMint": "Eu85ypXhsujBFTAqorfNswxweNn2i7mjizMp3Pc8jo3C",
+      "lpVault": "11111111111111111111111111111111",
+      "total_lp": "308220700148448",
+      "total_lp_supply": "308219700148448",
+      "burnt_lp_tokens": "-1000000000"
+    },
+    "lpPoolSupplyPercent": "15.36644906977822"
+  }
+}

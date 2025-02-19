@@ -1,0 +1,198 @@
+{
+  "ninja": {
+    "general": {
+      "buttons": {
+        "back": "🏯 Back to Dojo"
+      }
+    },
+    "scene": {
+      "portfolio": {
+        "text": {
+          "title": "🏯 Dojo Dashboard"
+        },
+        "buttons": {
+          "buy": "🛒 Buy",
+          "sell": "💰 Sell",
+          "topup": "💱 Topup",
+          "meta": "🔎 Meta Spy",
+          "sniper": "🥷 Ninja Sniper",
+          "refer": "📣 Refer",
+          "wallet": "💲️ Wallet️",
+          "activity": "⚡️ Activity",
+          "settings": "⚙️ Settings",
+          "kamikaze": "🔥 Kamikaze",
+          "single": "💸 Buy $NINJA",
+          "help": "ℹ️ Help",
+          "refresh": "🔁 Refresh"
+        }
+      },
+      "buy": {
+        "text": {
+          "content": "In the quest to expand your arsenal, present the token address or a Solscan/Birdeye link."
+        }
+      },
+      "sell": {
+        "text": {
+          "content": "Select which token you would like to jeet."
+        }
+      },
+      "meta": {
+        "text": {
+          "title": "🔎 Meta Spy"
+        }
+      },
+      "meta_trending_metas": {
+        "text": {
+          "title": "🔥 Trending Metas"
+        }
+      },
+      "sniper": {
+        "text": {
+          "title": "🥷 Ninja Mode",
+          "content": "Select Trending Metas to snipe (e.g. “1, 3, 5” 1 =",
+          "footer": "Tip: Ensure you have sufficient SOL in your wallet to cover snipe amounts and fees. Sniping continues until you pause it or run out of SOL."
+        }
+      },
+      "sniper_duration": {
+        "text": {
+          "content": "⏲️️ How long do you want to enable Ninja Mode?"
+        },
+        "buttons": {
+          "1h": "Safu - 1hr",
+          "5h": "Normie - 5 hrs",
+          "1d": "Degen - 1 day",
+          "3d": "Ninja Degen - 3 days"
+        }
+      },
+      "refer": {
+        "text": {
+          "title": "<strong>Refer a Ninja</strong>  🥷🤝🥷",
+          "content": "Start referring to earn rewards - coming soon\n\nLifetime $NINJA earned: coming soon \n\nRecruiting Ninjas to the clan is important and to be rewarded.\n\nRewards are automatically deposited at least once every 24 hours to your $NINJA balance. \n\nRefer a Ninja and earn ##FIRST_MONTH## of their fees in their first month, ##SECOND_MONTH##  in their second and ##FOREVER## forever after."
+        }
+      },
+      "activity": {
+        "text": {
+          "title": "⚡️ Activity"
+        }
+      },
+      "settings": {
+        "text": {
+          "title": "🔧 Settings",
+          "content": "<strong>GENERAL SETTINGS</strong>\n<strong>$NINJA Announcements:</strong> Occasional announcements. Tap to toggle.\n<strong>Minimum Position Value:</strong> Minimum position value to show in portfolio. Will hide tokens below this threshhold. Tap to edit.\n\n<strong>AUTO BUY</strong>\nImmediately buy when pasting token address. Tap to toggle.\n\n<strong>BUTTONS CONFIG</strong>\nCustomize your buy and sell buttons for buy token and manage position. Tap to edit.\n\n<strong>SLIPPAGE CONFIG</strong>\nCustomize your slippage settings for buys and sells. Tap to edit.\nMax Price Impact is to protect against trades in extremely illiquid pools.\n\n<strong>TRANSACTION PRIORITY</strong>\nIncrease your Transaction Priority to improve transaction speed. Select preset or tap to edit.\n\n<strong>MEV PROTECT</strong>\nMEV Protect accelerates your transactions and protect against frontruns to make sure you get the best price possible.\n<strong>Turbo:</strong> $NINJA will use MEV Protect, but if unprotected sending is faster it will use that instead.\n<strong>Secure:</strong> Transactions are guaranteed to be protected. This is the ultra secure option, but may be slower.\n"
+        }
+      },
+      "kamikaze": {
+        "text": {
+          "title": "<strong>Kamikaze 🔥</strong>",
+          "content": "Now Ninjas have the ability to sacrifice their $NINJA tokens for the community and bring honour on their wallets, you will also get a retweet/blessing from Hanzo himself. Burn with pride ninjas 🥷🏾"
+        },
+        "buttons": {
+          "burn": "🔥 Burn"
+        }
+      },
+      "help": {
+        "text": {
+          "content": "<strong>Which tokens can be traded using Shinobi? 💱</strong>\n\nAs a Ninja, you can covertly access any SPL (SOL pair) token on Raydium, Jupiter or Orca. Raydium pairs will be accessible immediately with Jupiter shortly afterwards.\n\n<strong>How do I view my referral balance? ⚖️</strong>\n\nTo see profits made from adding to your clan type /referrals into the chat to display your payment in $NINJA.\n\n<strong>Creating a new wallet with Shinobi. 💼</strong>\n\nSometimes a Ninja might wish to assume a new identity in order to maintain stealth. This can be done by typing /wallet, Ninjas will then be able to configure a new wallet address.\n\n<strong>Is Shinobi free? Is there a transaction fee? ✨</strong>\n\nShinobi is free to use for any Ninja, there is a small tribute fee of 0.5% on each trade.. This is done to ensure that Shinobi remains free to all.\n\n<strong>What is the difference between net profit and profit? 📈</strong>\n\nWhen withdrawing funds a Ninja should anticipate a small difference between their profit and their net profit. Net profit is determined by deducting network fees, DEX fees, price impact and tribute from the total profit. Shinobi infiltrates the blockchain to optimize earnings and guarantee this difference is as low as possible.\n\n<strong>Other questions 🥷</strong>\n\nDo you have any other questions on mastering Ninjutsu technique that have not been answered above? Join the Shinobi telegram group https://t.me/shinobininjatoken."
+        }
+      }
+    }
+  },
+  "berserker": {
+    "general": {
+      "buttons": {
+        "back": "🏯 Back to Dojo"
+      }
+    },
+    "scene": {
+      "portfolio": {
+        "text": {
+          "title": "🏯 Dojo Dashboard"
+        },
+        "buttons": {
+          "buy": "🛒 Buy",
+          "sell": "💰 Sell",
+          "topup": "💱 Topup",
+          "meta": "🔎 Meta Spy",
+          "sniper": "🥷 Ninja Sniper",
+          "refer": "📣 Refer",
+          "wallet": "💲️ Wallet️",
+          "activity": "⚡️ Activity",
+          "settings": "⚙️ Settings",
+          "kamikaze": "🔥 Kamikaze",
+          "single": "💸 Buy $NINJA",
+          "help": "ℹ️ Help",
+          "refresh": "🔁 Refresh"
+        }
+      },
+      "buy": {
+        "text": {
+          "content": "In the quest to expand your arsenal, present the token address or a Solscan/Birdeye link."
+        }
+      },
+      "sell": {
+        "text": {
+          "content": "Select which token you would like to jeet."
+        }
+      },
+      "meta": {
+        "text": {
+          "title": "🔎 Meta Spy"
+        }
+      },
+      "meta_trending_metas": {
+        "text": {
+          "title": "🔥 Trending Metas"
+        }
+      },
+      "sniper": {
+        "text": {
+          "title": "🥷 Ninja Mode",
+          "content": "Select Trending Metas to snipe (e.g. “1, 3, 5” 1 =",
+          "footer": "Tip: Ensure you have sufficient SOL in your wallet to cover snipe amounts and fees. Sniping continues until you pause it or run out of SOL."
+        }
+      },
+      "sniper_duration": {
+        "text": {
+          "content": "⏲️️ How long do you want to enable Ninja Mode?"
+        },
+        "buttons": {
+          "1h": "Safu - 1hr",
+          "5h": "Normie - 5 hrs",
+          "1d": "Degen - 1 day",
+          "3d": "Ninja Degen - 3 days"
+        }
+      },
+      "refer": {
+        "text": {
+          "title": "<strong>Refer a Ninja</strong>  🥷🤝🥷",
+          "content": "Start referring to earn rewards - coming soon\n\nLifetime $NINJA earned: coming soon \n\nRecruiting Ninjas to the clan is important and to be rewarded.\n\nRewards are automatically deposited at least once every 24 hours to your $NINJA balance. \n\nRefer a Ninja and earn ##FIRST_MONTH## of their fees in their first month, ##SECOND_MONTH##  in their second and ##FOREVER## forever after."
+        }
+      },
+      "activity": {
+        "text": {
+          "title": "⚡️ Activity"
+        }
+      },
+      "settings": {
+        "text": {
+          "title": "🔧 Settings",
+          "content": "<strong>GENERAL SETTINGS</strong>\n<strong>$NINJA Announcements:</strong> Occasional announcements. Tap to toggle.\n<strong>Minimum Position Value:</strong> Minimum position value to show in portfolio. Will hide tokens below this threshhold. Tap to edit.\n\n<strong>AUTO BUY</strong>\nImmediately buy when pasting token address. Tap to toggle.\n\n<strong>BUTTONS CONFIG</strong>\nCustomize your buy and sell buttons for buy token and manage position. Tap to edit.\n\n<strong>SLIPPAGE CONFIG</strong>\nCustomize your slippage settings for buys and sells. Tap to edit.\nMax Price Impact is to protect against trades in extremely illiquid pools.\n\n<strong>TRANSACTION PRIORITY</strong>\nIncrease your Transaction Priority to improve transaction speed. Select preset or tap to edit.\n\n<strong>MEV PROTECT</strong>\nMEV Protect accelerates your transactions and protect against frontruns to make sure you get the best price possible.\n<strong>Turbo:</strong> $NINJA will use MEV Protect, but if unprotected sending is faster it will use that instead.\n<strong>Secure:</strong> Transactions are guaranteed to be protected. This is the ultra secure option, but may be slower.\n"
+        }
+      },
+      "kamikaze": {
+        "text": {
+          "title": "<strong>Kamikaze 🔥</strong>",
+          "content": "Now Ninjas have the ability to sacrifice their $NINJA tokens for the community and bring honour on their wallets, you will also get a retweet/blessing from Hanzo himself. Burn with pride ninjas 🥷🏾"
+        },
+        "buttons": {
+          "burn": "🔥 Burn"
+        }
+      },
+      "help": {
+        "text": {
+          "content": "<strong>Which tokens can be traded using Shinobi? 💱</strong>\n\nAs a Ninja, you can covertly access any SPL (SOL pair) token on Raydium, Jupiter or Orca. Raydium pairs will be accessible immediately with Jupiter shortly afterwards.\n\n<strong>How do I view my referral balance? ⚖️</strong>\n\nTo see profits made from adding to your clan type /referrals into the chat to display your payment in $NINJA.\n\n<strong>Creating a new wallet with Shinobi. 💼</strong>\n\nSometimes a Ninja might wish to assume a new identity in order to maintain stealth. This can be done by typing /wallet, Ninjas will then be able to configure a new wallet address.\n\n<strong>Is Shinobi free? Is there a transaction fee? ✨</strong>\n\nShinobi is free to use for any Ninja, there is a small tribute fee of 0.5% on each trade.. This is done to ensure that Shinobi remains free to all.\n\n<strong>What is the difference between net profit and profit? 📈</strong>\n\nWhen withdrawing funds a Ninja should anticipate a small difference between their profit and their net profit. Net profit is determined by deducting network fees, DEX fees, price impact and tribute from the total profit. Shinobi infiltrates the blockchain to optimize earnings and guarantee this difference is as low as possible.\n\n<strong>Other questions 🥷</strong>\n\nDo you have any other questions on mastering Ninjutsu technique that have not been answered above? Join the Shinobi telegram group https://t.me/shinobininjatoken."
+        }
+      }
+    }
+  }
+}
